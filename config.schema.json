@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomeBridgePetKit",
   "pluginType": "platform",
   "singular": true,
   "schema": {
